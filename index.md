@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Shoalmont Games
 
-I'm glad you are here. I plan to talk about ...
+I'm moving to GitHub as a site platform.
